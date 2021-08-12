@@ -1,0 +1,31 @@
+html{
+    font-size:16px;
+}
+
+body{
+    padding:0px;
+    
+}
+
+.banner{
+    visibility: hidden;
+}
+
+#mySearch{
+    visibility: hidden;
+}
+
+.button1{
+    position:absolute;
+}
+
+.content_col{
+    display: block;
+    margin-top:40%;
+    margin-left:0;
+}
+
+.subtitlu{
+    text-align: left;
+}
+ 
